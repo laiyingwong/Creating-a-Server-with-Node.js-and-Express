@@ -34,5 +34,6 @@ $ npm install -g nodemon
 
 ## 👏 Credits
 
-This project is based on <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">Node.js Crash Course Tutorial</a>
- by The Net Ninja.
+This project is based on <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">Node.js Crash Course Tutorial</a> by The Net Ninja.
+
+The Spongebob GIFs are from <a href="https://tenor.com/search/spongebob-gifs">Tenor</a>.
