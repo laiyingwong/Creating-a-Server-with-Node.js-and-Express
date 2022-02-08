@@ -12,7 +12,7 @@ This project involved building two simple web servers -- one using the native No
 
 Node.js provides capabilities to create a web server which will handle HTTP requests asynchronously, and **modules** (e.g. *fs* and *http* modules) are a crucial part of the implementation. The module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application. It can be loaded into the program by using the **require** function.
 
-Express.js is a web application framework for Node.js. It simplifies creating a server because its routing methods are much more straightforward to use for processing different types of requests from the client, and it's not required to "create" a server explicitly using the *http* module or manually set the content type with Express, so the code looks a lot cleaner. 
+Express.js is a web application framework for Node.js. It simplifies creating a server because its routing methods are much more straightforward to use for processing different types of requests from the client. In addition, it's not required to "create" a server explicitly using the *http* module or manually set the content type with Express, so the code looks a lot cleaner. 
 
 ## 💻 Setup
 
