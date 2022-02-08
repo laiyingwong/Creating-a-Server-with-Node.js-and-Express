@@ -28,12 +28,7 @@ $ npm install
 $ npm install -g nodemon
 
 ```
-3. Run Node.js:
-```sh
 
-$ node
-
-```
 
 Run either `nodemon node-server` or `nodemon express-server` in the terminal to start the server, and connect to `http//localhost:4000` in the web browser.
 
