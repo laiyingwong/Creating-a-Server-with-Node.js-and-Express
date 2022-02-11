@@ -1,6 +1,6 @@
 # Creating a Server with Node.js and Express
 
-This project involved building two simple web servers -- one using the native Node.js, and another using the Express framework. Both servers run on port 4000 and share the same HTML files. They listen for HTTP requests from the browser and render corresponding webpages (homepage, about page, and 404 page) for different URLs. The browser is also able to redirect an about-me page (`/about-me`) to the about page (`/about`).
+This project involves building two simple web servers -- one using the native Node.js, and the other using the Express framework. Both servers run on port 4000 and share the same HTML files. They listen for HTTP requests from the browser and render corresponding webpages (homepage, about page, and 404 page) for different URLs. The browser is also able to redirect an about-me page (`/about-me`) to the about page (`/about`).
 
 
 ## 🎉 Demo 
@@ -10,7 +10,7 @@ This project involved building two simple web servers -- one using the native No
 
 ## ✨ What I Have Learned
 
-Node.js provides capabilities to create a web server which will handle HTTP requests asynchronously, and **modules** (e.g. `fs` and `http` modules) are a crucial part of the implementation. The module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application. It can be loaded into the program by using the `require` function.
+Node.js provides capabilities to create a web server which will handle HTTP requests asynchronously. **Modules** (e.g. `fs` and `http` modules) are a crucial part of the implementation. The module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application. It can be loaded into the program by using the `require` function.
 
 Express.js is a web application framework for Node.js. It simplifies creating a server because its routing methods are much more straightforward to use for processing different types of requests from the client. In addition, it's not required to "create" a server explicitly using the `http` module or manually set the content type with Express, so the code looks a lot cleaner. 
 
